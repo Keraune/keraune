@@ -3,20 +3,20 @@
 
 <br>
 
-<p align="right"> <h3>Vista de Perfil:</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Vista de Perfil:</h3> <img src="https://komarev.com/ghpvc/?username=Keraune-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Keraune-pw" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Keraune-pw/Keraune-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 
 - 📫 Cómo contactarme **franchesjimnenez549@gmail.com**
 
-- ⚡Dato curioso: - La comida y la música🎵 son las razones para vivir.
+- ⚡Dato curioso: La comida y la música🎵 son las razones para vivir.
 
 <br>
 
@@ -62,22 +62,10 @@
 
 <br>
 
-<h3>Datos estadísticos:</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🐍 Una serpiente devorando mis contribuciones
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 [Keraune-pw](https://github.com/Keraune)
