@@ -13,10 +13,7 @@
 
 
 - 🌱Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
-
 - 📫 Cómo contactarme **franchesjimnenez549@gmail.com**
-
-- ⚡Dato curioso: La comida y la música🎵 son las razones para vivir.
 
 <br>
 
