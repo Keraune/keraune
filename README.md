@@ -7,34 +7,6 @@
     alt="Keraune-pw" /> 
   </p>
 
-<br>
-
-<p><img align="right" src="https://github.com/Keraune-pw/Keraune-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
-- 📫 Cómo contactarme **franchesjimnenez549@gmail.com**
-
-<br>
-
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ramón-jiménez-62020235a/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
-
-<br>
-
 <h3 align="left">Languajes y Herramientas:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
