@@ -1,13 +1,12 @@
-<h1 align="center">Hola 👋, soy Ramon / Keraune</h1>
-<h3 align="center">Estudiante de la Universidad Tecnologica del Perú (UTP)🌟.</h3>
-
+<h1 align="center">𝐇𝐨𝐥𝐚, 𝐬𝐨𝐲 𝐑𝐚𝐦𝐨𝐧 / 𝐊𝐞𝐫𝐚𝐮𝐧𝐞</h1>
+<h3 align="center">ᴇꜱᴛᴜᴅɪᴀɴᴛᴇ ᴅᴇ ʟᴀ ᴜɴɪᴠᴇʀꜱɪᴅᴀᴅ ᴛᴇᴄɴᴏʟᴏɢɪᴄᴀ ᴅᴇʟ ᴘᴇʀú (ᴜᴛᴘ)</h3>
 <br>
 
-<p align="right"> <h3>Vista de Perfil:</h3> <img src="https://komarev.com/ghpvc/?username=Keraune-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>ᴠɪꜱᴛᴀ ᴅᴇ ᴘᴇʀꜰɪʟ:</h3> <img src="https://komarev.com/ghpvc/?username=Keraune-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="Keraune-pw" /> 
   </p>
 
-<h3 align="left">Languajes y Herramientas:</h3>
+<h3 align="left">ʟᴀɴɢᴜᴀᴊᴇꜱ ʏ ʜᴇʀʀᴀᴍɪᴇɴᴛᴀꜱ:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
