@@ -53,7 +53,7 @@ Continuar desarrollando proyectos sólidos que reflejen crecimiento técnico, di
 ## Contacto
 
 <p align="center">
-  <a href="https://github.com/Keraune-pw">
+  <a href="https://github.com/Keraune">
     <img src="https://img.shields.io/badge/GitHub-Keraune--pw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
