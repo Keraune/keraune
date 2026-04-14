@@ -1,39 +1,59 @@
-<h1 align="center">𝐇𝐨𝐥𝐚, 𝐬𝐨𝐲 𝐑𝐚𝐦𝐨𝐧 / 𝐊𝐞𝐫𝐚𝐮𝐧𝐞</h1>
-<h3 align="center">ᴇꜱᴛᴜᴅɪᴀɴᴛᴇ ᴅᴇ ʟᴀ ᴜɴɪᴠᴇʀꜱɪᴅᴀᴅ ᴛᴇᴄɴᴏʟᴏɢɪᴄᴀ ᴅᴇʟ ᴘᴇʀú (ᴜᴛᴘ)</h3>
-<br>
-
-<p align="right"> <h3>ᴠɪꜱᴛᴀ ᴅᴇ ᴘᴇʀꜰɪʟ:</h3> <img src="https://komarev.com/ghpvc/?username=Keraune-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Keraune-pw" /> 
-  </p>
-
-<h3 align="left">ʟᴀɴɢᴜᴀᴊᴇꜱ ʏ ʜᴇʀʀᴀᴍɪᴇɴᴛᴀꜱ:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
-
-<br>
-
-## 🐍 Una serpiente devorando mis contribuciones
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<h1 align="center">Ramon | Keraune</h1>
+<p align="center">
+  Desarrollador orientado al desarrollo web, backend y construcción de soluciones de software
 </p>
 
-[Keraune-pw](https://github.com/Keraune)
+<p align="center">
+  <a href="https://github.com/Keraune-pw">
+    <img src="https://komarev.com/ghpvc/?username=Keraune-pw&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Desarrollo-orange?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Frontend-Web-blue?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Software-1f6feb?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Proyectos-Prácticos-success?style=flat-square" alt="Proyectos" />
+</p>
+
+---
+
+## Sobre mí
+
+Soy un desarrollador enfocado en el desarrollo web y en la creación de soluciones de software funcionales, escalables y bien estructuradas.
+
+Me interesa fortalecer mis habilidades técnicas a través de la práctica constante, el aprendizaje continuo y la construcción de proyectos que aporten experiencia real y una base sólida en desarrollo de software.
+
+---
+
+## Stack tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,mysql,python" alt="Tech Stack" />
+</p>
+
+---
+
+## Enfoque actual
+
+- Desarrollo web frontend
+- Java y backend
+- TypeScript y JavaScript
+- Bases de datos relacionales
+- Buenas prácticas y arquitectura de software
+
+---
+
+## Objetivo profesional
+
+Continuar desarrollando proyectos sólidos que reflejen crecimiento técnico, disciplina y una evolución constante dentro del desarrollo de software.
+
+---
+
+## Contacto
+
+<p align="center">
+  <a href="https://github.com/Keraune-pw">
+    <img src="https://img.shields.io/badge/GitHub-Keraune--pw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
