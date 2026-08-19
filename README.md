@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Keraune-pw">
+  <a href="https://github.com/Keraune">
     <img src="https://komarev.com/ghpvc/?username=Keraune-pw&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
   </a>
 </p>
